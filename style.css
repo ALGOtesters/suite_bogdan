@@ -1,0 +1,43 @@
+header{
+  display:flex;
+  justify-content:center;
+  flex-direction: column;
+}
+
+header h1{
+  color:#000000;
+  background-color:#d9d9d9;
+  border:3px solid #000000;
+  border-radius:30px;
+  padding:20px;
+  text-align:center;
+  margin-left:90px;
+  margin-right:90px;
+}
+
+header p{
+  text-align:justify ;
+  padding:10px;
+  background-color:#ffc9c9;
+  border: 3px solid #a30b0b;
+}
+
+.imgs{
+  display:flex;
+  justify-content:center;
+  flex-direction: column;
+  text-align:center;
+  border: 3px solid #a30b0b;
+}
+
+.spisok{
+  border:3px solid #a30b0b;
+  padding:10px;
+  display:flex;
+  flex-direction: column;
+  background-color:#ffc9c9;
+}
+
+footer p{
+  text-align:center;
+}
